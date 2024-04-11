@@ -1,4 +1,4 @@
-# XML2CSVPlus for PharmaZer
+# XML2CSV for PharmaZer
 
 ## Project Overview
 XML2CSVPlus is a cloud-based solution designed for PharmaZer to facilitate the process of matching institutions between a given Pubmed XML file and the GRID dataset, with the output being a single .csv file. This project is part of a broader initiative to harness the power of cloud computing for accelerating medical research by providing a scalable and automated system for data transformation and analysis.
