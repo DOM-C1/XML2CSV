@@ -3,7 +3,6 @@
 to another s3 bucket"""
 
 from datetime import datetime
-import time
 import re
 import xml.etree.ElementTree as ET
 
@@ -11,7 +10,6 @@ import pandas as pd
 import spacy
 from rapidfuzz import process, fuzz
 from boto3 import client
-import boto3
 from dotenv import load_dotenv
 from os import environ as ENV
 
